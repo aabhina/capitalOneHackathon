@@ -1,0 +1,16 @@
+{
+    "entries": [
+        {
+            "productId": "3000",
+            "productName": "360 Savings"
+        },
+        {
+            "productId": "3300",
+            "productName": "360 Money Market"
+        },
+        {
+            "productId": "3500",
+            "productName": "360 CD"
+        }
+    ]
+}
