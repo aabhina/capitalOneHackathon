@@ -1,0 +1,27 @@
+{
+    "productId": "3300",
+    "productName": "360 Money Market",
+    "annualPercentageYieldDetails": {
+        "annualPercentageYieldType": "tiered",
+        "tieredAnnualPercentageYield": [
+            {
+                "tierDescription": "$0 - $9,999.99",
+                "annualPercentageYield": 0.6
+            },
+            {
+                "tierDescription": "$10000 or more",
+                "annualPercentageYield": 1
+            }
+        ]
+    },
+    "disclosures": {
+        "productDisclosureUrl": "https://www.capitalone.com/online-money-market-account/disclosures/#360moneymarketdisclosure",
+        "termsAndConditionsUrl": "https://www.capitalone.com/online-money-market-account/disclosures/#360moneymarketagreement",
+        "electronicFundTransferDisclosureUrl": "https://www.capitalone.com/online-money-market-account/disclosures/#electronicfundtransferdisclosurestatement",
+        "privacyPolicyUrl": "https://www.capitalone.com/online-money-market-account/disclosures/#privacypolicy",
+        "wireTransferAgreementUrl": "https://www.capitalone.com/online-money-market-account/disclosures/#wirefundstransferdisclosurestatement",
+        "paperlessAgreementUrl": "https://www.capitalone.com/terms_eddn",
+        "fraudProtectionAgreementUrl": "https://www.capitalone.com/terms-personal-data",
+        "tcpaDisclosureContent": "If number(s) provided above is(are) mobile phone number(s), it is (they are) my mobile phone number(s), by clicking on the button below, I consent to receive autodialed and prerecorded/artificial calls, including texts, relating to my relationship with Capital One (which may include handling, servicing, and billing for any of my accounts). Message and Data rates may apply. You can stop these types of messages by replying STOP in response to a text message, or by following any other instructions contained in the time-sensitive call.\n[Radio button] You can call or text me through automated means\n[Radio button] You can only contact me through non-automated mean"
+    }
+}
