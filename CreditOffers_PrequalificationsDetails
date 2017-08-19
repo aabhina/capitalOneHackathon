@@ -1,0 +1,30 @@
+{
+    "isPrequalified": true,
+    "prequalificationId": "9235052b89ad4624968b2a10df2f0be1",
+    "products": [
+        {
+            "productId": "SBe96d53888fcd48d58e082726b9eddd9e",
+            "priority": 1,
+            "tier": "REBUILDING CREDIT",
+            "additionalInformationUrl": "http://www.capitalone.com/credit-cards/LP/secured-mastercard-gen-faq",
+            "applicationUrl": "https://applicationqa20.kdc.capitalone.com/icoreapp/jsp/landing.jsp?s=0013370008ERf6305965-d887-4f5d-8899-9350bbc520deZ&IARC=ASPEN&experience=PQO",
+            "code": "PSECURED01",
+            "productName": "Secured MasterCard<sup>&#174;</sup>",
+            "images": [
+                {
+                    "height": 154,
+                    "width": 244,
+                    "alternateText": "Apply now for the Secured MasterCard Card",
+                    "url": "https://content.capitalone.com/product/images/JB16760-MC-Blue-Steel-EMV-flat-244x154-06-15.png",
+                    "imageType": "CardArt"
+                }
+            ],
+            "terms": {
+                "primaryBenefit": "Build credit with responsible use. Refundable deposit of $49, $99 or $200 required to get a $200 initial credit line.",
+                "purchaseAprTerms": "24.99% variable APR",
+                "balanceTransferTerms": "24.99% variable APR; No Transfer Fee",
+                "annualMembershipFeeTerms": "$0"
+            }
+        }
+    ]
+}
